@@ -2,5 +2,5 @@
 Data files for IS833 Group Project.
 
 Files Names:
-1) Movie Budgeting.csv
+1) movie_budgeting.csv
 2) movies.csv
